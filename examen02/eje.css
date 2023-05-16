@@ -1,0 +1,16 @@
+*{
+    transition: 2s ease all;
+}
+body{
+    text-align: center;
+}
+div{
+    width: 100px;
+    height: 100px;
+    display: block;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
